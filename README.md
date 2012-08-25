@@ -4,6 +4,8 @@ MonoTouch port of Reachability by Tony Million: http://www.tonymillion.com/post/
 
 Allows for you to easily check for network connectivity (and what type), as well as events to notify you as the connection changes.
 
+More information can be found here: http://dan.clarke.name/2012/08/reachability-in-monotouch/
+
 ##Usage
 
 	private Reachability _reachability;

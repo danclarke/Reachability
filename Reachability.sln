@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reachability", "Reachability\Reachability.csproj", "{487338BD-40AB-4A9B-B34E-4F83820A373E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Release|iPhone.Build.0 = Release|iPhone
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{487338BD-40AB-4A9B-B34E-4F83820A373E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Reachability\Reachability.csproj
+	EndGlobalSection
+EndGlobal
